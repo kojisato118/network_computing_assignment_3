@@ -2,7 +2,9 @@
 
 ## 確認手順
 ### ViertualBoxにいれる
-http://qiita.com/kojisato118/items/ad8667266c846eb5e642
+[ovaファイルをDL](https://drive.google.com/open?id=0B3wluWBRnMf5aXB4RXUtMWE4Wms)
+
+http://qiita.com/kojisato118/items/ad8667266c846eb5e642    
 この辺参考にしてください
 
 ### 解析サーバー起動
